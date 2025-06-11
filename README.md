@@ -1,1 +1,1 @@
-# tygia_api
+# tygia-api
